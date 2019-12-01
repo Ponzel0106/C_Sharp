@@ -1,0 +1,24 @@
+﻿1.6.	Напишіть і виконайте запит, що повертає всі записи 1 таблиці. Запам’ятайте запит.
+	select * from Infectious_disease
+1.7.	Напишіть і виконайте запит, що повертає об'єднану зведену таблицю (використовуючи «INNER JOIN») всіх фахівців і напрямків. Запам’ятайте запит.	
+	select *
+	from Infectious_disease AS I_d
+	INNER JOIN Categorie_of_infectious_disease AS CoID ON I_d.Categorie_ID=CoID.ID
+1.8.	Напишіть і виконайте запит, що повертає об'єднану таблицю тільки фахівців, що мають конкретний напрямок діяльності, наприклад, "Дизайнер жіночого взуття". Запам’ятайте запит.
+	select *
+	from Infectious_disease AS I_d
+	INNER JOIN Categorie_of_infectious_disease AS CoID ON I_d.Categorie_ID=CoID.ID WHERE Categorie_ID=1
+1.9.	Напишіть і виконайте запит, що повертає тільки фахівця за його ID. Запам’ятайте запит.
+	select * from Infectious_disease AS I_d WHERE I_d.ID=1
+1.10.	Напишіть і виконайте запит, що додає в 1 таблицю новий запис. Запам’ятайте запит.
+	insert into Infectious_disease (Name, ThreatLevel,IncubatoryPeriod, WayOfInfection, Categorie_ID)
+	values ('Холера','високий','21 день','повітря','2')
+1.11.	Напишіть і виконайте запит, що додає в 2 таблицю новий запис. Запам’ятайте запит.
+	insert into Categorie_of_infectious_disease(Name, Description)
+	values (N'Бактеріальні захворювання‎',N'висока температура')
+1.12.	Напишіть і виконайте запити, що змінюють всі поля елемента першої таблиці окрім ID.
+	update Infectious_disease
+	set Name=N'Менінгіт', ThreatLevel=N'середній', IncubatoryPeriod=N'14 днів', WayOfInfection=N'не передається', Categorie_ID='2'
+	where ID=3
+1.13.	Напишіть і виконайте запит, що вилучає фахівця, якщо фахівець має конкретне ID, вказане в запиті.
+	delete from Infectious_disease where ID=3

@@ -1,0 +1,27 @@
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\bin\Debug\Client.exe
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\bin\Debug\Client.pdb
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.Form1.resources
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.Properties.Resources.resources
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.exe
+D:\саша\Прога\Sysprog\Sysprog4\CLIENT\Client\obj\Debug\Client.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\bin\Debug\Client.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\bin\Debug\Client.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.Form1.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab4\Sysprog4\CLIENT\Client\obj\Debug\Client.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\bin\Debug\Client.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\bin\Debug\Client.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.Form1.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\CLIENT\Client\obj\Debug\Client.pdb

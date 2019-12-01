@@ -1,0 +1,500 @@
+D:\laba6\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\laba6\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\laba6\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+D:\laba6\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+D:\laba6\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\laba6\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+D:\laba6\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+D:\laba6\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\laba6\WebApplication2\WebApplication2\bin\Microsoft.Win32.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\netstandard.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.AppContext.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Collections.Concurrent.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Collections.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Collections.NonGeneric.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Collections.Specialized.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.EventBasedAsync.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.TypeConverter.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Console.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Data.Common.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Contracts.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Debug.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.FileVersionInfo.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Process.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.StackTrace.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Tools.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.TraceSource.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Tracing.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Drawing.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Dynamic.Runtime.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Globalization.Calendars.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Globalization.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Globalization.Extensions.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.Compression.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.Compression.ZipFile.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.DriveInfo.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.Watcher.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.IsolatedStorage.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.MemoryMappedFiles.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.Pipes.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.IO.UnmanagedMemoryStream.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Linq.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Linq.Expressions.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Linq.Parallel.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Linq.Queryable.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.Http.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.NameResolution.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.NetworkInformation.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.Ping.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.Requests.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.Security.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.Sockets.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.WebHeaderCollection.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.WebSockets.Client.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Net.WebSockets.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.ObjectModel.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Reflection.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Reflection.Extensions.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Reflection.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Resources.Reader.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Resources.ResourceManager.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Resources.Writer.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Extensions.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Handles.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.InteropServices.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Numerics.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Formatters.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Json.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Xml.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Claims.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Algorithms.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Csp.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Encoding.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Primitives.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.X509Certificates.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.Principal.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Security.SecureString.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Text.Encoding.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Text.Encoding.Extensions.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Text.RegularExpressions.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.Overlapped.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.Tasks.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Parallel.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.Thread.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.ThreadPool.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Threading.Timer.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.ValueTuple.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Xml.ReaderWriter.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Xml.XDocument.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Xml.XmlDocument.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Xml.XmlSerializer.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Xml.XPath.dll
+D:\laba6\WebApplication2\WebApplication2\bin\System.Xml.XPath.XDocument.dll
+D:\laba6\WebApplication2\WebApplication2\bin\Library-1.dll
+D:\laba6\WebApplication2\WebApplication2\bin\Library-2.dll
+D:\laba6\WebApplication2\WebApplication2\bin\Library-3.dll
+D:\laba6\WebApplication2\WebApplication2\bin\Library-4.dll
+D:\laba6\WebApplication2\WebApplication2\bin\Library-1.pdb
+D:\laba6\WebApplication2\WebApplication2\bin\Library-2.pdb
+D:\laba6\WebApplication2\WebApplication2\bin\Library-3.pdb
+D:\laba6\WebApplication2\WebApplication2\bin\Library-4.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Microsoft.Win32.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\netstandard.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.AppContext.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Collections.Concurrent.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Collections.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Collections.NonGeneric.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Collections.Specialized.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Console.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Data.Common.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Contracts.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Debug.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Process.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.StackTrace.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Tools.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.TraceSource.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Diagnostics.Tracing.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Drawing.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Dynamic.Runtime.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Globalization.Calendars.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Globalization.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Globalization.Extensions.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.Compression.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.Compression.ZipFile.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.IsolatedStorage.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.Pipes.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Linq.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Linq.Expressions.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Linq.Parallel.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Linq.Queryable.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.Http.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.NameResolution.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.NetworkInformation.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.Ping.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.Requests.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.Security.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.Sockets.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.WebHeaderCollection.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.WebSockets.Client.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Net.WebSockets.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.ObjectModel.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Reflection.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Reflection.Extensions.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Reflection.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Resources.Reader.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Resources.ResourceManager.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Resources.Writer.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Extensions.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Handles.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.InteropServices.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Numerics.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Json.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Claims.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Csp.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.Principal.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Security.SecureString.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Text.Encoding.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Text.Encoding.Extensions.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Text.RegularExpressions.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.Overlapped.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.Tasks.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.Thread.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.ThreadPool.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Threading.Timer.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.ValueTuple.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Xml.ReaderWriter.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Xml.XDocument.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Xml.XmlDocument.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Xml.XmlSerializer.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Xml.XPath.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Xml.XPath.XDocument.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-1.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-2.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-3.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-4.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-1.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-2.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-3.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Library-4.pdb
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eiden\Downloads\Telegram Desktop\laba6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-1.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-2.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-3.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-4.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-1.pdb
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-2.pdb
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-3.pdb
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Library-4.pdb
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eiden\Desktop\sysprog\Lab6\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library1.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library3.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library4.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library1.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library2.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library3.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\WebApplication2\WebApplication2\bin\Library4.pdb

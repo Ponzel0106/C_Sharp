@@ -1,0 +1,10 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\bin\Debug\Zavd7.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\bin\Debug\Zavd7.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\bin\Debug\Zavd7.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.Form1.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.Properties.Resources.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\7\Zavd7\Zavd7\obj\Debug\Zavd7.pdb

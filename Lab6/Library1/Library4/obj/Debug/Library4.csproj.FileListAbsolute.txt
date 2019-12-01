@@ -1,0 +1,9 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\bin\Debug\Library4.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\bin\Debug\Library4.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\bin\Debug\Library2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\bin\Debug\Library2.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\obj\Debug\Library4.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\obj\Debug\Library4.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\obj\Debug\Library4.csproj.CopyComplete
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\obj\Debug\Library4.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library4\obj\Debug\Library4.pdb

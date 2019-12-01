@@ -1,0 +1,40 @@
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-1.dll
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-2.dll
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-3.dll
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-4.dll
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-1.pdb
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-2.pdb
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-3.pdb
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\bin\Library-4.pdb
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\eiden\Desktop\sysprog\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library1.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library3.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library4.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library1.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library2.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library3.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\bin\Library4.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

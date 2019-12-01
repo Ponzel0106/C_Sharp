@@ -1,0 +1,6 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library2\bin\Debug\Library2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library2\bin\Debug\Library2.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library2\obj\Debug\Library2.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library2\obj\Debug\Library2.dll
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab6\Library1\Library2\obj\Debug\Library2.pdb

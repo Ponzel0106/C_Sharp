@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService4.0", "WindowsService4.0\WindowsService4.0.csproj", "{A38347F7-D348-4097-8F5B-A2EA58A979EF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Petrovich228", "Petrovich228\Petrovich228.vdproj", "{02BAA6CB-A541-4E15-B56F-2519A60B6BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38347F7-D348-4097-8F5B-A2EA58A979EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38347F7-D348-4097-8F5B-A2EA58A979EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38347F7-D348-4097-8F5B-A2EA58A979EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38347F7-D348-4097-8F5B-A2EA58A979EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BAA6CB-A541-4E15-B56F-2519A60B6BEC}.Debug|Any CPU.ActiveCfg = Debug
+		{02BAA6CB-A541-4E15-B56F-2519A60B6BEC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADA529B-0EBE-4EFD-98A1-3B749D8C4815}
+	EndGlobalSection
+EndGlobal

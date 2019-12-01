@@ -1,0 +1,7 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\bin\Debug\Zavd1.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\bin\Debug\Zavd1.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\bin\Debug\Zavd1.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\obj\Debug\Zavd1.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\obj\Debug\Zavd1.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\obj\Debug\Zavd1.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\1\Zavd1\Zavd1\obj\Debug\Zavd1.pdb

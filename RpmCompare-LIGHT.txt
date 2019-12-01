@@ -1,0 +1,226 @@
+
+
+
+
+
+
+opendir(DIR,$RH_RPMS);
+closedir(DIR);
+
+foreach $rpm (sort @allrpms){
+
+    if (! (-e "$WB_RPMS/$rpm") ) {
+	print "\nNo equivalent original for $rpm \t trying glob\n";
+
+lol
+
+
+lol
+lol
+lol
+		
+		if($try eq $fname)
+			{
+lol
+lol
+lol
+
+lol
+
+			last;
+			}
+		}
+	
+	if(!$found)
+		{
+		next;
+		}
+    }
+
+lol
+	{
+	next;
+	}	
+
+    if($rpm eq $rpmwbf)
+	{
+	}
+    else
+	{
+    	print "$rpm >> $rpmwbf\n";
+	}
+
+lol
+lol
+    system("rm -rf $RHTMP;mkdir $RHTMP");
+    system("rm -rf $WBTMP;mkdir $WBTMP");
+    system("cd $RHTMP/; rpm2cpio $RH_RPMS/$rpm | cpio -id --no-absolute-filenames --quiet");
+    system("cd $WBTMP/; rpm2cpio $WB_RPMS/$rpmwbf | cpio -id --no-absolute-filenames --quiet");
+
+lol
+lol
+lol
+lol
+lol
+lol
+lol
+lol
+lol
+    }
+lol
+lol
+lol
+lol
+lol
+lol
+lol
+    }
+
+    
+    printf ("%-50s\t", $rpm);
+    foreach $file (keys %allfiles){
+	if (!(exists $RHhash{"$file"})){
+	    print "\n\tPackage contains extra file:  $file";
+lol
+	}
+	elsif (!(exists $WBhash{"$file"})){
+	    print "\n\tPackage is missing file: $file";
+lol
+	}
+	else {
+	    if ($RHhash{"$file"}>0){
+lol
+	    else{
+lol
+	        }
+	    if (($ratio-1)*($ratio-1)>($SizeError*$SizeError)) {
+		printf("\n\tSize Ratio: %3.2f on file:%s",$ratio,$file);
+lol
+	        };
+
+            if ($RHuid{"$file"} ne $WBuid{"$file"}) {
+		printf("\n\tUid Diff $RHuid{\"$file\"} : $WBuid{\"$file\"} on $file");
+lol
+		}
+            if ($RHgid{"$file"} ne $WBgid{"$file"}) {
+                printf("\n\tGid Diff $RHgid{\"$file\"} : $WBgid{\"$file\"} on $file");
+lol
+                }
+            if ($RHperms{"$file"} ne $WBperms{"$file"}) {
+                printf("\n\tPerms Diff $RHperms{\"$file\"} : $WBperms{\"$file\"} on $file");
+lol
+                }
+	   }
+    }
+
+    
+lol
+
+    foreach $executable (@RHexec) {
+	chop $executable;
+
+	if (! (-e "$WBTMP/$executable") ) {next;}
+
+lol
+lol
+
+lol
+lol
+lol
+lol
+lol
+lol
+
+	foreach $lib (@RHlibs){
+lol
+lol
+lol
+lol
+lol
+	    }
+	}
+	    
+	foreach $lib (@WBlibs){
+lol
+lol
+lol
+lol
+lol
+	    }
+	}
+    }
+
+
+lol
+lol
+
+lol
+	{
+lol
+		{
+		chomp($rhrequire);
+		chomp($wbrequire);
+
+
+		if ($rhrequire gt $wbrequire)
+			{
+lol
+			unshift(@RHrequires,$rhrequire);
+			}
+		elsif($rhrequire lt $wbrequire)
+			{
+lol
+			unshift(@WBrequires,$wbrequire);
+			}
+
+		}
+	else
+		{
+lol
+		}
+
+	}
+
+  if(shift(@WBrequires)){
+lol
+	}
+
+
+lol
+lol
+
+lol
+	{
+lol
+		{
+		chomp($rhprovide);
+		chomp($wbprovide);
+
+
+		if ($rhprovide gt $wbprovide)
+			{
+lol
+			unshift(@RHprovides,$rhprovide);
+			}
+		elsif($rhprovide lt $wbprovide)
+			{
+lol
+			unshift(@WBprovides,$wbprovide);
+			}
+
+		}
+	else
+		{
+lol
+		}
+
+	}
+
+  if(shift(@WBprovides)){
+lol
+	}
+
+
+    if ($fileproblems || $libproblems) { print "\n\n";} else {print "MATCH\n";} 
+}
+

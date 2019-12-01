@@ -1,0 +1,16 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\bin\Debug\WindowsService4.0.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\bin\Debug\WindowsService4.0.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\bin\Debug\WindowsService4.0.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\obj\Debug\WindowsService4.0.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\obj\Debug\WindowsService4.0.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\obj\Debug\WindowsService4.0.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\WindowsService4.0\WindowsService4.0\obj\Debug\WindowsService4.0.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\bin\Debug\WindowsService4.0.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\bin\Debug\WindowsService4.0.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\bin\Debug\WindowsService4.0.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\obj\Debug\WindowsService4.0.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\obj\Debug\WindowsService4._0.ProjectInstaller.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\obj\Debug\WindowsService4.0.csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\obj\Debug\WindowsService4.0.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\obj\Debug\WindowsService4.0.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Laba4\SERVICE\WindowsService4.0\obj\Debug\WindowsService4.0.pdb

@@ -1,0 +1,9 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\bin\Debug\Kalifornicina.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\bin\Debug\Kalifornicina.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\bin\Debug\Kalifornicina.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\obj\Debug\Kalifornicina.csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\obj\Debug\Kalifornicina.ProjectInstaller.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\obj\Debug\Kalifornicina.csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\obj\Debug\Kalifornicina.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\obj\Debug\Kalifornicina.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab3\Kalifornicina\Kalifornicina\obj\Debug\Kalifornicina.pdb

@@ -1,0 +1,10 @@
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\bin\x64\Debug\Zavd6.exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\bin\x64\Debug\Zavd6.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\bin\x64\Debug\Zavd6.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.Form1.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.Properties.Resources.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab1\6\Zavd6\Zavd6\obj\x64\Debug\Zavd6.csprojAssemblyReference.cache

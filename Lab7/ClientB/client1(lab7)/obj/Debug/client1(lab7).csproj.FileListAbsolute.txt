@@ -1,0 +1,20 @@
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\bin\Debug\client1(lab7).exe.config
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\bin\Debug\client1(lab7).exe
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\bin\Debug\client1(lab7).pdb
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1(lab7).csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1_lab7_.Form1.resources
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1_lab7_.Properties.Resources.resources
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1(lab7).csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1(lab7).csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1(lab7).exe
+C:\Users\Владислав\source\repos\client1(lab7)\client1(lab7)\obj\Debug\client1(lab7).pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\bin\Debug\client1(lab7).exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\bin\Debug\client1(lab7).exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\bin\Debug\client1(lab7).pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1(lab7).csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1_lab7_.Form1.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1_lab7_.Properties.Resources.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1(lab7).csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1(lab7).csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1(lab7).exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientB\client1(lab7)\obj\Debug\client1(lab7).pdb

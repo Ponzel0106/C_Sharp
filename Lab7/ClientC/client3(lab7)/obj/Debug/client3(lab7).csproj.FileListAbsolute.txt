@@ -1,0 +1,29 @@
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\bin\Debug\client3(lab7).exe.config
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\bin\Debug\client3(lab7).exe
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\bin\Debug\client3(lab7).pdb
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\obj\Debug\client3_lab7_.Form1.resources
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\obj\Debug\client3_lab7_.Properties.Resources.resources
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\obj\Debug\client3(lab7).csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\obj\Debug\client3(lab7).csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\obj\Debug\client3(lab7).exe
+C:\Users\Владислав\source\repos\client3(lab7)\client3(lab7)\obj\Debug\client3(lab7).pdb
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\bin\Debug\client3(lab7).exe.config
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\bin\Debug\client3(lab7).exe
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\bin\Debug\client3(lab7).pdb
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).csprojAssemblyReference.cache
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3_lab7_.Form1.resources
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3_lab7_.Properties.Resources.resources
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).csproj.GenerateResource.cache
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).csproj.CoreCompileInputs.cache
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).exe
+C:\Users\Zhuk\Downloads\Telegram Desktop\Herbich-2-1-7\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\bin\Debug\client3(lab7).exe.config
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\bin\Debug\client3(lab7).exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\bin\Debug\client3(lab7).pdb
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).csprojAssemblyReference.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3_lab7_.Form1.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3_lab7_.Properties.Resources.resources
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).csproj.GenerateResource.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).csproj.CoreCompileInputs.cache
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).exe
+C:\Users\maksy\OneDrive\Документы\2.2 курс\Petrovich\Lab7\ClientC\client3(lab7)\obj\Debug\client3(lab7).pdb
